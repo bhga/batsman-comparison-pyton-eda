@@ -22,5 +22,7 @@ Test:
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/41315882/221137264-a2b54c52-595c-4d99-a081-7665b198183a.png">     <img width="246" alt="image" src="https://user-images.githubusercontent.com/41315882/221137321-2fc5b0fa-6003-40dd-b5c5-2aeea207bc25.png">     <img width="248" alt="image" src="https://user-images.githubusercontent.com/41315882/221137391-c20f13c7-cbc0-48bd-a70b-fc29507c226d.png">
 
 The bar plot shows at the current stage Gill is performing better than KL Rahul
+
 But the data availability is less in T20 and Test format so it is too early too say 
+
 But there is a chance that Gill might perform better in ODI than KL Rahul would 
