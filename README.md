@@ -23,6 +23,6 @@ Test:
 
 The bar plot shows at the current stage Gill is performing better than KL Rahul
 
-But the data availability is less in T20 and Test format so it is too early too say 
+The data availability of Gill is less in T20 and Test format so it is too early too say 
 
-But there is a chance that Gill might perform better in ODI than KL Rahul would 
+But there is a chance that Gill might perform better in ODI than KL Rahul would
