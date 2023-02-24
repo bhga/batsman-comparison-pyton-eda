@@ -11,6 +11,4 @@ Running Between Wickets = (Total Runs – (4*(No of Fours) + *(No of Sixes)))/(T
 
 As per to the plot generated we can clearly come to a conclusion that Gill is more likely to perform better
 
-T20 :
-
-![image](https://user-images.githubusercontent.com/41315882/221134762-836106af-a940-4cee-8d7c-a4bd75b12f3d.png)       
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/41315882/221136394-8b1ff7df-f87b-4e9f-a6a3-7fb72b1efbc8.png">
