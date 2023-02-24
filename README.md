@@ -9,7 +9,8 @@ Fast Scoring Ability = Total Runs / Total Balls Played by Batsman
 
 Running Between Wickets = (Total Runs – (4*(No of Fours) + *(No of Sixes)))/(Total Balls Played – Boundary Balls)
 
-As per to the plot generated we can clearly come to a conclusion that Gill is more likely to perform better
+As per to the plot generated we can come to a conclusion that Gill is more likely to perform better at ODI as there is good data availability 
+but compared to the T20 and Test format it is too early to say
 
 T20:
 
