@@ -7,7 +7,7 @@ Hard Hitting Ability = (4*(No of Fours) + 6*(No of Sixes)) / Total Balls Played 
 
 Fast Scoring Ability = Total Runs / Total Balls Played by Batsman
 
-Running Between Wickets = (Total Runs – (4*(No of Fours) + *(No of Sixes)))/(Total Balls Played – Boundary Balls)
+Running Between Wickets = (Total Runs – (4*(No of Fours) + 6*(No of Sixes)))/(Total Balls Played – Boundary Balls)
 
 T20:
 
